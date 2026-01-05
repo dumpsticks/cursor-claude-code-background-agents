@@ -68,7 +68,7 @@ This means:
 - No manual setup required - it just works!
 
 ### For AI Assistants (Claude, etc.)
-When working on AutoDrafter codebase, AI assistants automatically:
+When working on your codebase, AI assistants automatically:
 1. **Library Research Agent:** Search for libraries before coding
 2. **Learning Agent:** Explain concepts clearly
 3. **Code Quality Agent:** Review code for issues

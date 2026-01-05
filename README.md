@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-These agents were developed for the [AutoDrafter](https://github.com/dumpsticks/autodrafter) project but are designed to be reusable across any development project.
+These agents are designed to be reusable across any development project. They work with any codebase regardless of the technology stack.
 
 ## 📧 Support
 
@@ -268,9 +268,10 @@ For questions or issues:
 - Review the documentation in `AGENTS.md`
 - Check `AGENTS-QUICK-START.md` for examples
 
-## 🔗 Related Projects
+## 🔗 Related Resources
 
-- [AutoDrafter](https://github.com/dumpsticks/autodrafter) - The project these agents were originally created for
+- [Claude Code](https://claude.ai/code) - AI coding assistant by Anthropic
+- [Cursor IDE](https://cursor.sh/) - AI-powered code editor
 
 ---
 

@@ -1,6 +1,6 @@
 # Agents Quick Start Guide
 
-> **Quick reference for using the three AutoDrafter development agents**  
+> **Quick reference for using the seven development agents**  
 > **Full documentation:** See [AGENTS.md](./AGENTS.md)
 
 ---

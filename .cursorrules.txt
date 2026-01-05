@@ -1,4 +1,4 @@
-# Cursor AI Rules for AutoDrafter Project
+# Cursor AI Rules for Your Project
 
 ## 🤖 ACTIVE AGENTS (Always Running in Background)
 
