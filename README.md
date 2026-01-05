@@ -133,10 +133,11 @@ Copy agent prompts from `AGENTS.md` and paste into:
 
 - **`AGENTS.md`** - Complete agent definitions with full prompts
 - **`AGENTS-QUICK-START.md`** - Quick reference guide
-- **`AGENTS-STATUS.md`** - Agent status and activation information
-- **`AGENT-AUDIT-REPORT.md`** - Example audit report from agent runs
 - **`CLAUDE.md`** - Configuration file for Claude Code
 - **`.cursorrules.txt`** - Configuration file for Cursor IDE
+- **`USAGE.md`** - Detailed usage guide with setup instructions
+- **`CONTRIBUTING.md`** - Contribution guidelines
+- **`LICENSE`** - MIT License
 - **`README.md`** - This file
 
 ## 💡 Usage Examples
@@ -242,7 +243,7 @@ Edit the agent prompts in `AGENTS.md` to customize behavior for your project:
 
 - **Full Documentation:** See `AGENTS.md` for complete agent prompts
 - **Quick Reference:** See `AGENTS-QUICK-START.md` for usage examples
-- **Status Info:** See `AGENTS-STATUS.md` for activation details
+- **Detailed Setup:** See `USAGE.md` for comprehensive setup instructions
 
 ## 🤝 Contributing
 
