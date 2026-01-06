@@ -39,8 +39,12 @@ This guide provides detailed instructions for using the background agents in dif
 To verify agents are active:
 1. Ask Cursor to implement a feature
 2. It should automatically search for libraries first (Library Research Agent)
-3. It should explain concepts clearly (Learning Agent)
-4. It should review code quality (Code Quality Agent)
+3. It should explain concepts clearly (Learning & Onboarding Agent)
+4. It should review code quality (Code Quality & Review Agent)
+5. It should monitor API endpoints (API Endpoint Monitor Agent)
+6. It should help debug errors (Debugging Agent)
+7. It should validate code changes (Code Validation Agent)
+8. It should escalate debugging when fixes fail (Auto-Debugging Escalation Agent)
 
 ## Claude Code Setup
 

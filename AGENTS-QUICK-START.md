@@ -37,6 +37,11 @@
 **Prompt:** "Validate my code changes" or "Check if my changes work"  
 **Output:** Test results, validation status, recommendations for Husky + lint-staged
 
+### Agent 7: Auto-Debugging Escalation Agent
+**When to use:** Automatic - activates after 2 failed fix attempts  
+**Prompt:** Automatic escalation (no manual prompt needed)  
+**Output:** Systematic search for solutions, multiple fix attempts, creative problem solving
+
 ---
 
 ## 📝 Usage with Claude/ChatGPT
@@ -84,8 +89,10 @@
 ```
 1. Debugging Agent → Analyzes error
 2. Debugging Agent → Traces through code
-3. API Endpoint Monitor Agent → Checks related endpoints
-4. Code Quality Agent → Reviews fix
+3. Auto-Debugging Escalation Agent → Searches solutions (if fixes fail)
+4. API Endpoint Monitor Agent → Checks related endpoints
+5. Code Quality Agent → Reviews fix
+6. Code Validation Agent → Validates fix
 ```
 
 ---
@@ -121,6 +128,11 @@
 - "Validate my recent code changes"
 - "Check if my changes broke anything"
 - "Set up automated code validation with Husky"
+
+**Auto-Debugging Escalation:**
+- Automatically activates after 2 failed fix attempts
+- Searches web/GitHub for solutions
+- Tests multiple approaches systematically
 
 ---
 
